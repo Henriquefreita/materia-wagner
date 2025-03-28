@@ -1,0 +1,1 @@
+print(list(range(500,1001,2)))

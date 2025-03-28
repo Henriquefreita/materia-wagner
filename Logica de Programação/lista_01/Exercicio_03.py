@@ -1,0 +1,5 @@
+nome = input ('nome: ')
+idade = int(input ('idade: '))
+sexo = input ('sexo: ')
+endereço = input('endereço: ')
+print (' SEUS DADOS SÃO: ', '\n nome: ', nome, '\n idade: ', idade, '\n sexo: ', sexo, '\n endereço: ', endereço)

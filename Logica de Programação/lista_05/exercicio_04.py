@@ -1,0 +1,8 @@
+x = input('digite uma frase: ')
+vogal_a = x.count('a')
+vogal_e = x.count('e')
+vogal_i = x.count('i')
+vogal_o = x.count('o')
+vogal_u = x.count('u')
+total = (vogal_a + vogal_e + vogal_i + vogal_o + vogal_u)
+print(total)
